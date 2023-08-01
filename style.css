@@ -41,9 +41,11 @@ flex-direction: column;
 justify-content: space-evenly;
 }
 
+/*
 header > bottom a:hover{
 opacity: 0.3;
 }
+*/
 
 header > * {
 display: flex;
@@ -54,11 +56,10 @@ align-items: center;
 header > top{
 justify-content: center;
 padding-top: 2rem;
-width: 100%;
-height: 100%;
 }
 
 
+/*
 boton-1{ 
 display: flex;
 position: relative;
@@ -122,6 +123,7 @@ padding-bottom: 1rem;
 visibility: hidden;
 justify-content:  space-evenly;
 }
+*/
 
 hero {
 display: flex;
@@ -179,7 +181,7 @@ entry:hover > project {
 height: 100%;
 }
 
-
+/*
 team{
 display: flex;
 flex-direction: column;
@@ -226,7 +228,7 @@ font-size: var(--fontsz-rest);
 contact > a:hover {
 opacity: 0.3;
 }
-
+*/
 
 .debug {
 border: 1px solid red;
