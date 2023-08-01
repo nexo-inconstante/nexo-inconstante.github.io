@@ -58,6 +58,10 @@ justify-content: center;
 padding-top: 2rem;
 }
 
+top > a > img {
+	width: 100%
+}
+
 
 /*
 boton-1{ 
